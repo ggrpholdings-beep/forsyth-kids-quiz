@@ -22,6 +22,17 @@ export default function QuizPage() {
     trackEvent("quiz_start", {});
   }, []);
 
+  // Close iframe modal on Escape
+  useEffect(() => {
+    const handleKey = (e: KeyboardEvent) => {
+      if (e.key === 'Escape') {
+        window.parent.postMessage('fkg-close-quiz', '*');
+      }
+    };
+    window.addEventListener('keydown', handleKey);
+    return () => window.removeEventListener('keydown', handleKey);
+  }, []);
+
   // Track abandonment on unmount
   useEffect(() => {
     const handleBeforeUnload = () => {

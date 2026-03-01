@@ -4801,41 +4801,6 @@ export const activities: Activity[] = [
     "badges": []
   },
   {
-    "id": "148",
-    "name": "Greenwood School of Music Inc",
-    "category": "Music Lessons",
-    "description": "",
-    "ageRanges": [
-      "3-5",
-      "6-8",
-      "9-12"
-    ],
-    "personalityMatch": [
-      "creative",
-      "social",
-      "everything"
-    ],
-    "interestMatch": [
-      "creative-expression",
-      "individual"
-    ],
-    "scheduleOptions": [
-      "weekends",
-      "weekday-evening"
-    ],
-    "priceRange": "100-200",
-    "location": "anywhere",
-    "listingTier": "free",
-    "website": "",
-    "phone": "+1 478-390-2361",
-    "address": "5996 Forsyth Rd, Macon, GA 31210",
-    "imageUrl": "/images/placeholder.jpg",
-    "directoryUrl": "https://forsythkidsguide.com/listing/greenwood-school-of-music-inc/",
-    "rating": 5,
-    "reviewCount": 7,
-    "badges": []
-  },
-  {
     "id": "149",
     "name": "William Pu Music Academy (WPMA Alpharetta)",
     "category": "Music Lessons",

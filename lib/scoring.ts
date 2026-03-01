@@ -24,7 +24,8 @@ const MAX_ORGANIC = Object.values(WEIGHTS).reduce((sum, w) => sum + w, 0); // 39
 /**
  * Score all activities against quiz answers.
  * Returns top 5, sorted by total score (organic + tier bonus).
- * Free tier listings are excluded from quiz results entirely.
+ * Listings of all tiers (including `free`) are included in quiz results.
+ * `free` listings receive a 0 point tier bonus but participate in matching.
  *
  * IMPORTANT: matchPercent is calculated from organic score ONLY.
  * The tier bonus affects ranking ORDER but NOT the displayed match percentage.
@@ -35,8 +36,7 @@ export function scoreActivities(
   answers: QuizAnswers
 ): ScoredActivity[] {
   return activities
-    // Free tier never appears in quiz results
-    .filter((a) => a.listingTier !== "free")
+    // Include all tiers (free has a 0 bonus via TIER_BONUS)
     .map((activity) => {
       let organic = 0;
 

@@ -108,7 +108,7 @@ export const activities: Activity[] = [
     "id": "4",
     "name": "Fundamental Sports Center",
     "category": "Sports Training & Leagues",
-    "description": "Fundamental Sports Center is a local Sports Training & Leagues offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -438,7 +438,7 @@ export const activities: Activity[] = [
     "id": "14",
     "name": "Cumming Fit Body Boot Camp",
     "category": "Other",
-    "description": "Cumming Fit Body Boot Camp is a local Other offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -769,7 +769,7 @@ export const activities: Activity[] = [
     "id": "24",
     "name": "Georgia Octane Sportsplex",
     "category": "Sports Training & Leagues",
-    "description": "Georgia Octane Sportsplex is a local Sports Training & Leagues offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -1001,41 +1001,6 @@ export const activities: Activity[] = [
     "badges": []
   },
   {
-    "id": "31",
-    "name": "Fury Performance Academy",
-    "category": "Outdoor & Adventure",
-    "description": "Fury Fitness is a network of fitness facilities offering adult fitness programs, performance training, personal training, and functional fitness across multiple locations.",
-    "ageRanges": [
-      "3-5",
-      "6-8",
-      "9-12",
-      "13+"
-    ],
-    "personalityMatch": [
-      "athletic",
-      "everything"
-    ],
-    "interestMatch": [
-      "outdoor",
-      "individual"
-    ],
-    "scheduleOptions": [
-      "weekends",
-      "weekday-afternoon"
-    ],
-    "priceRange": "under-50",
-    "location": "anywhere",
-    "listingTier": "free",
-    "website": "http://www.furyperformanceacademy.com/",
-    "phone": "+1 770-823-9831",
-    "address": "202 Rope Mill Rd B, Woodstock, GA 30188",
-    "imageUrl": "/images/placeholder.jpg",
-    "directoryUrl": "https://forsythkidsguide.com/listing/fury-performance-academy/",
-    "rating": 5,
-    "reviewCount": 857,
-    "badges": []
-  },
-  {
     "id": "32",
     "name": "JAMWORKOUT",
     "category": "Outdoor & Adventure",
@@ -1208,7 +1173,7 @@ export const activities: Activity[] = [
     "id": "37",
     "name": "Gametime Performance",
     "category": "Sports Training & Leagues",
-    "description": "Gametime Performance is a local Sports Training & Leagues offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -1276,7 +1241,7 @@ export const activities: Activity[] = [
     "id": "39",
     "name": "LIFT Summer Camp",
     "category": "Summer Camps",
-    "description": "LIFT Summer Camp is a local Summer Camps offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -1313,7 +1278,7 @@ export const activities: Activity[] = [
     "id": "40",
     "name": "Redeemer Sports",
     "category": "Other",
-    "description": "Redeemer Sports is a local Other offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -1377,7 +1342,7 @@ export const activities: Activity[] = [
     "id": "42",
     "name": "NextLapLegends",
     "category": "Other",
-    "description": "NextLapLegends is a local Other offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -1928,7 +1893,7 @@ export const activities: Activity[] = [
     "id": "59",
     "name": "Forsyth Academy of Performing Arts",
     "category": "Other",
-    "description": "Forsyth Academy of Performing Arts is a local Other offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -2027,7 +1992,7 @@ export const activities: Activity[] = [
     "id": "62",
     "name": "BIO Ability",
     "category": "Outdoor & Adventure",
-    "description": "BIO Ability is a local Outdoor & Adventure offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -2125,7 +2090,7 @@ export const activities: Activity[] = [
     "id": "65",
     "name": "The Dojo - South Forsyth",
     "category": "Martial Arts & Self-Defense",
-    "description": "The Dojo - South Forsyth is a local Martial Arts & Self-Defense offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -2157,42 +2122,10 @@ export const activities: Activity[] = [
     "badges": []
   },
   {
-    "id": "66",
-    "name": "Fitness in Progress",
-    "category": "Other",
-    "description": "Reach your fitness goals by working one on one with a certified personal trainer in Cumming. Online and in person personal training fitness classes.",
-    "ageRanges": [
-      "6-8",
-      "9-12",
-      "13+"
-    ],
-    "personalityMatch": [
-      "everything"
-    ],
-    "interestMatch": [
-      "individual"
-    ],
-    "scheduleOptions": [
-      "weekday-afternoon",
-      "weekends"
-    ],
-    "priceRange": "100-200",
-    "location": "anywhere",
-    "listingTier": "free",
-    "website": "https://fipcoaching.com/",
-    "phone": "+1 470-253-1319",
-    "address": "60 Waleska St, Canton, GA 30114",
-    "imageUrl": "/images/placeholder.jpg",
-    "directoryUrl": "https://forsythkidsguide.com/listing/fitness-in-progress/",
-    "rating": 5,
-    "reviewCount": 7,
-    "badges": []
-  },
-  {
     "id": "67",
     "name": "Cumming Dance Academy",
     "category": "Dance & Ballet",
-    "description": "Cumming Dance Academy is a local Dance & Ballet offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -2227,7 +2160,7 @@ export const activities: Activity[] = [
     "id": "68",
     "name": "UFA Soccer Fields at Polo Fields",
     "category": "Sports Training & Leagues",
-    "description": "UFA Soccer Fields at Polo Fields is a local Sports Training & Leagues offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -2361,7 +2294,7 @@ export const activities: Activity[] = [
     "id": "72",
     "name": "Peak Performance Personal Training",
     "category": "Other",
-    "description": "Peak Performance Personal Training is a local Other offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -2429,7 +2362,7 @@ export const activities: Activity[] = [
     "id": "74",
     "name": "CDA II Performance Academy",
     "category": "Dance & Ballet",
-    "description": "CDA II Performance Academy is a local Dance & Ballet offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -2499,7 +2432,7 @@ export const activities: Activity[] = [
     "id": "76",
     "name": "WildeWood Farm, Inc.",
     "category": "Other",
-    "description": "WildeWood Farm, Inc. is a local Other offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -2532,7 +2465,7 @@ export const activities: Activity[] = [
     "id": "77",
     "name": "Sree Badminton Academy",
     "category": "Sports Training & Leagues",
-    "description": "Sree Badminton Academy is a local Sports Training & Leagues offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -2567,7 +2500,7 @@ export const activities: Activity[] = [
     "id": "78",
     "name": "Footprints Dance Alliance",
     "category": "Dance & Ballet",
-    "description": "Footprints Dance Alliance is a local Dance & Ballet offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -2595,73 +2528,6 @@ export const activities: Activity[] = [
     "directoryUrl": "https://forsythkidsguide.com/listing/footprints-dance-alliance/",
     "rating": 4.8,
     "reviewCount": 24,
-    "badges": []
-  },
-  {
-    "id": "79",
-    "name": "Atlanta Kick",
-    "category": "Martial Arts & Self-Defense",
-    "description": "Martial Arts and Fitness Classes for kids and adults, plus Summer Camp for working families makes Atlanta Kick the best choice in Atlanta!",
-    "ageRanges": [
-      "3-5",
-      "6-8",
-      "9-12",
-      "13+"
-    ],
-    "personalityMatch": [
-      "athletic",
-      "social",
-      "everything"
-    ],
-    "interestMatch": [
-      "individual",
-      "team-sports"
-    ],
-    "scheduleOptions": [
-      "weekends"
-    ],
-    "priceRange": "100-200",
-    "location": "anywhere",
-    "listingTier": "free",
-    "website": "https://atlantakick.com/",
-    "phone": "+1 404-352-1140",
-    "address": "764 Miami Cir NE #204, Atlanta, GA 30324",
-    "imageUrl": "/images/placeholder.jpg",
-    "directoryUrl": "https://forsythkidsguide.com/listing/atlanta-kick/",
-    "rating": 4.9,
-    "reviewCount": 168,
-    "badges": []
-  },
-  {
-    "id": "80",
-    "name": "BodyWorks Fitness Consulting",
-    "category": "Other",
-    "description": "BodyWorks Fitness Consulting is a local Other offering programs for kids.",
-    "ageRanges": [
-      "6-8",
-      "9-12",
-      "13+"
-    ],
-    "personalityMatch": [
-      "everything"
-    ],
-    "interestMatch": [
-      "individual"
-    ],
-    "scheduleOptions": [
-      "weekends",
-      "weekday-afternoon"
-    ],
-    "priceRange": "100-200",
-    "location": "anywhere",
-    "listingTier": "free",
-    "website": "",
-    "phone": "+1 877-318-2498",
-    "address": "4545 River Pkwy #11j, Atlanta, GA 30339",
-    "imageUrl": "/images/placeholder.jpg",
-    "directoryUrl": "https://forsythkidsguide.com/listing/bodyworks-fitness-consulting/",
-    "rating": 5,
-    "reviewCount": 10,
     "badges": []
   },
   {
@@ -2700,7 +2566,7 @@ export const activities: Activity[] = [
     "id": "82",
     "name": "Ace It Fine Arts LLC",
     "category": "Dance & Ballet",
-    "description": "Ace It Fine Arts LLC is a local Dance & Ballet offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -2767,7 +2633,7 @@ export const activities: Activity[] = [
     "id": "84",
     "name": "Nritya Kalika Bharathanatyam Academy",
     "category": "Dance & Ballet",
-    "description": "Nritya Kalika Bharathanatyam Academy is a local Dance & Ballet offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -2828,42 +2694,6 @@ export const activities: Activity[] = [
     "directoryUrl": "https://forsythkidsguide.com/listing/planet-fitness/",
     "rating": 4.7,
     "reviewCount": 710,
-    "badges": []
-  },
-  {
-    "id": "86",
-    "name": "AT PAR GOLF Teaching Academy",
-    "category": "Sports Training & Leagues",
-    "description": "We are dedicated to helping junior golfers and adults become true champions, both on and off the course.",
-    "ageRanges": [
-      "3-5",
-      "6-8",
-      "9-12",
-      "13+"
-    ],
-    "personalityMatch": [
-      "athletic",
-      "social",
-      "everything"
-    ],
-    "interestMatch": [
-      "team-sports",
-      "outdoor"
-    ],
-    "scheduleOptions": [
-      "weekday-afternoon",
-      "weekends"
-    ],
-    "priceRange": "100-200",
-    "location": "anywhere",
-    "listingTier": "free",
-    "website": "http://atpargolf.com/",
-    "phone": "+1 678-362-9646",
-    "address": "216 Chastain Park Ave NW, Atlanta, GA 30342",
-    "imageUrl": "/images/placeholder.jpg",
-    "directoryUrl": "https://forsythkidsguide.com/listing/at-par-golf-teaching-academy/",
-    "rating": 4.5,
-    "reviewCount": 0,
     "badges": []
   },
   {
@@ -2972,7 +2802,7 @@ export const activities: Activity[] = [
     "id": "90",
     "name": "The Dojo - Samples Rd.",
     "category": "Martial Arts & Self-Defense",
-    "description": "The Dojo - Samples Rd. is a local Martial Arts & Self-Defense offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -3077,7 +2907,7 @@ export const activities: Activity[] = [
     "id": "93",
     "name": "Loreti High Performance Soccer Training",
     "category": "Sports Training & Leagues",
-    "description": "Loreti High Performance Soccer Training is a local Sports Training & Leagues offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -3112,7 +2942,7 @@ export const activities: Activity[] = [
     "id": "94",
     "name": "The Dojo Cumming City Center",
     "category": "Martial Arts & Self-Defense",
-    "description": "The Dojo Cumming City Center is a local Martial Arts & Self-Defense offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -3147,7 +2977,7 @@ export const activities: Activity[] = [
     "id": "95",
     "name": "Cumming Martial Arts",
     "category": "Martial Arts & Self-Defense",
-    "description": "Cumming Martial Arts is a local Martial Arts & Self-Defense offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -3182,7 +3012,7 @@ export const activities: Activity[] = [
     "id": "96",
     "name": "The Dojo - North Forsyth / Dawson",
     "category": "Martial Arts & Self-Defense",
-    "description": "The Dojo - North Forsyth / Dawson is a local Martial Arts & Self-Defense offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -3254,7 +3084,7 @@ export const activities: Activity[] = [
     "id": "98",
     "name": "Movement Karate Martial Arts Cumming",
     "category": "Martial Arts & Self-Defense",
-    "description": "Movement Karate Martial Arts Cumming is a local Martial Arts & Self-Defense offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -3289,7 +3119,7 @@ export const activities: Activity[] = [
     "id": "99",
     "name": "Okinawan Karate Academy",
     "category": "Martial Arts & Self-Defense",
-    "description": "Okinawan Karate Academy is a local Martial Arts & Self-Defense offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -3360,7 +3190,7 @@ export const activities: Activity[] = [
     "id": "101",
     "name": "The Dojo - Vickery Village",
     "category": "Martial Arts & Self-Defense",
-    "description": "The Dojo - Vickery Village is a local Martial Arts & Self-Defense offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -3502,7 +3332,7 @@ export const activities: Activity[] = [
     "id": "105",
     "name": "Dojo American",
     "category": "Martial Arts & Self-Defense",
-    "description": "Dojo American is a local Martial Arts & Self-Defense offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -3572,7 +3402,7 @@ export const activities: Activity[] = [
     "id": "107",
     "name": "Still Pointe Ballet",
     "category": "Dance & Ballet",
-    "description": "Still Pointe Ballet is a local Dance & Ballet offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -3640,7 +3470,7 @@ export const activities: Activity[] = [
     "id": "109",
     "name": "Cumming Recreation Dance",
     "category": "Dance & Ballet",
-    "description": "Cumming Recreation Dance is a local Dance & Ballet offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -3744,7 +3574,7 @@ export const activities: Activity[] = [
     "id": "112",
     "name": "Cumming Dance Academy",
     "category": "Dance & Ballet",
-    "description": "Cumming Dance Academy is a local Dance & Ballet offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -3779,7 +3609,7 @@ export const activities: Activity[] = [
     "id": "113",
     "name": "Dance KidZ Dance",
     "category": "Dance & Ballet",
-    "description": "Dance KidZ Dance is a local Dance & Ballet offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -3814,7 +3644,7 @@ export const activities: Activity[] = [
     "id": "114",
     "name": "Suwanee Academy of the Arts",
     "category": "Dance & Ballet",
-    "description": "Suwanee Academy of the Arts is a local Dance & Ballet offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -3848,7 +3678,7 @@ export const activities: Activity[] = [
     "id": "115",
     "name": "Naatyaveda Dance Academy LLC",
     "category": "Dance & Ballet",
-    "description": "Naatyaveda Dance Academy LLC is a local Dance & Ballet offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -3883,7 +3713,7 @@ export const activities: Activity[] = [
     "id": "116",
     "name": "Ballet Conservatory of Atlanta",
     "category": "Dance & Ballet",
-    "description": "Ballet Conservatory of Atlanta is a local Dance & Ballet offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -3918,7 +3748,7 @@ export const activities: Activity[] = [
     "id": "117",
     "name": "Dobbs Creek Recreation Center",
     "category": "Other",
-    "description": "Dobbs Creek Recreation Center is a local Other offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -3982,7 +3812,7 @@ export const activities: Activity[] = [
     "id": "119",
     "name": "Cumming Recreation & Parks Department",
     "category": "Other",
-    "description": "Cumming Recreation & Parks Department is a local Other offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -4014,7 +3844,7 @@ export const activities: Activity[] = [
     "id": "120",
     "name": "Fowler Park Recreation Center",
     "category": "Other",
-    "description": "Fowler Park Recreation Center is a local Other offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -4143,7 +3973,7 @@ export const activities: Activity[] = [
     "id": "124",
     "name": "Gymnastics World of Georgia",
     "category": "Other",
-    "description": "Gymnastics World of Georgia is a local Other offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -4451,7 +4281,7 @@ export const activities: Activity[] = [
     "id": "133",
     "name": "Atlanta Piano Fortissimo",
     "category": "Music Lessons",
-    "description": "Atlanta Piano Fortissimo is a local Music Lessons offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -4765,7 +4595,7 @@ export const activities: Activity[] = [
     "id": "142",
     "name": "Monroe County Fine Arts Center",
     "category": "Art & Creative",
-    "description": "Monroe County Fine Arts Center is a local Art & Creative offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -4800,7 +4630,7 @@ export const activities: Activity[] = [
     "id": "143",
     "name": "New School of Music Gwinnett/Buford",
     "category": "Music Lessons",
-    "description": "New School of Music Gwinnett/Buford is a local Music Lessons offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -4870,7 +4700,7 @@ export const activities: Activity[] = [
     "id": "145",
     "name": "Let's Learn Academy",
     "category": "Music Lessons",
-    "description": "Let's Learn Academy is a local Music Lessons offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -4905,7 +4735,7 @@ export const activities: Activity[] = [
     "id": "146",
     "name": "Buford Academy of Music",
     "category": "Music Lessons",
-    "description": "Buford Academy of Music is a local Music Lessons offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -4974,7 +4804,7 @@ export const activities: Activity[] = [
     "id": "148",
     "name": "Greenwood School of Music Inc",
     "category": "Music Lessons",
-    "description": "Greenwood School of Music Inc is a local Music Lessons offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -5112,7 +4942,7 @@ export const activities: Activity[] = [
     "id": "152",
     "name": "Cumming Arts Center: Open Wednesday, Thursday, Friday, and Saturday 11am to 3pm",
     "category": "Art & Creative",
-    "description": "Cumming Arts Center: Open Wednesday, Thursday, Friday, and Saturday 11am to 3pm is a local Art & Creative offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -5179,41 +5009,6 @@ export const activities: Activity[] = [
     "badges": []
   },
   {
-    "id": "154",
-    "name": "The Halls of Music",
-    "category": "Music Lessons",
-    "description": "Located in Macon, GA, The Halls of Music offer in-person and online music lessons on guitar, drums, percussion, piano, voice, bass guitar, ukulele, & more!",
-    "ageRanges": [
-      "3-5",
-      "6-8",
-      "9-12"
-    ],
-    "personalityMatch": [
-      "creative",
-      "social",
-      "everything"
-    ],
-    "interestMatch": [
-      "creative-expression",
-      "individual"
-    ],
-    "scheduleOptions": [
-      "weekday-afternoon",
-      "weekends"
-    ],
-    "priceRange": "100-200",
-    "location": "anywhere",
-    "listingTier": "free",
-    "website": "http://www.thehallsofmusic.com/",
-    "phone": "+1 478-972-3440",
-    "address": "1654 Wesleyan Dr, Macon, GA 31210",
-    "imageUrl": "/images/placeholder.jpg",
-    "directoryUrl": "https://forsythkidsguide.com/listing/the-halls-of-music/",
-    "rating": 5,
-    "reviewCount": 23,
-    "badges": []
-  },
-  {
     "id": "155",
     "name": "Bharatha Darshana Cumming",
     "category": "Dance & Ballet",
@@ -5245,40 +5040,6 @@ export const activities: Activity[] = [
     "directoryUrl": "https://forsythkidsguide.com/listing/bharatha-darshana-cumming/",
     "rating": 4.3,
     "reviewCount": 13,
-    "badges": []
-  },
-  {
-    "id": "156",
-    "name": "Innovate Music Academy - Peachtree City",
-    "category": "Music Lessons",
-    "description": "Learn how to make music. A lifelong skill that your family will love. Music Classes and Instruction School. We at Music Schools International, provide quality music education to children, teens, and adults, so that you can play, sing, and create the music that you want and love at a competent level.",
-    "ageRanges": [
-      "3-5",
-      "6-8",
-      "9-12"
-    ],
-    "personalityMatch": [
-      "creative",
-      "social",
-      "everything"
-    ],
-    "interestMatch": [
-      "creative-expression",
-      "individual"
-    ],
-    "scheduleOptions": [
-      "weekends"
-    ],
-    "priceRange": "100-200",
-    "location": "anywhere",
-    "listingTier": "free",
-    "website": "http://innovatemusicacademy.com/",
-    "phone": "+1 770-629-2229",
-    "address": "101 Tivoli Gardens Rd Suite A, Peachtree City, GA 30269",
-    "imageUrl": "/images/placeholder.jpg",
-    "directoryUrl": "https://forsythkidsguide.com/listing/innovate-music-academy---peachtree-city/",
-    "rating": 4.9,
-    "reviewCount": 51,
     "badges": []
   },
   {
@@ -5387,42 +5148,6 @@ export const activities: Activity[] = [
     "badges": []
   },
   {
-    "id": "160",
-    "name": "Performa Lesson Studios of Middle Georgia",
-    "category": "Music Lessons",
-    "description": "We offer piano, voice, guitar and drum lessons in Warner Robins, Georgia. \r\nExperienced instructors Hugh Hession, Rob Walker and Drew King.",
-    "ageRanges": [
-      "3-5",
-      "6-8",
-      "9-12"
-    ],
-    "personalityMatch": [
-      "creative",
-      "social",
-      "everything"
-    ],
-    "interestMatch": [
-      "creative-expression",
-      "individual"
-    ],
-    "scheduleOptions": [
-      "weekends",
-      "weekday-afternoon",
-      "weekday-evening"
-    ],
-    "priceRange": "100-200",
-    "location": "anywhere",
-    "listingTier": "free",
-    "website": "http://www.performamusiclessons.com/",
-    "phone": "+1 478-390-8955",
-    "address": "4501 Russell Pkwy #29, Warner Robins, GA 31088",
-    "imageUrl": "/images/placeholder.jpg",
-    "directoryUrl": "https://forsythkidsguide.com/listing/performa-lesson-studios-of-middle-georgia/",
-    "rating": 4.9,
-    "reviewCount": 41,
-    "badges": []
-  },
-  {
     "id": "161",
     "name": "Atlanta Music Academy",
     "category": "Music Lessons",
@@ -5461,7 +5186,7 @@ export const activities: Activity[] = [
     "id": "162",
     "name": "Forsyth Conference Center at Lanier Technical College",
     "category": "Other",
-    "description": "Forsyth Conference Center at Lanier Technical College is a local Other offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -5490,45 +5215,10 @@ export const activities: Activity[] = [
     "badges": []
   },
   {
-    "id": "163",
-    "name": "Opus Music Studio",
-    "category": "Music Lessons",
-    "description": "Opus Music Studio is a local Music Lessons offering programs for kids.",
-    "ageRanges": [
-      "3-5",
-      "6-8",
-      "9-12"
-    ],
-    "personalityMatch": [
-      "creative",
-      "social",
-      "everything"
-    ],
-    "interestMatch": [
-      "creative-expression",
-      "individual"
-    ],
-    "scheduleOptions": [
-      "weekday-afternoon",
-      "weekends"
-    ],
-    "priceRange": "100-200",
-    "location": "anywhere",
-    "listingTier": "free",
-    "website": "https://www.opusmusicstudio.com/",
-    "phone": "+1 678-879-8072",
-    "address": "233 Hidden Acres Rd, Winder, GA 30680",
-    "imageUrl": "/images/placeholder.jpg",
-    "directoryUrl": "https://forsythkidsguide.com/listing/opus-music-studio/",
-    "rating": 5,
-    "reviewCount": 28,
-    "badges": []
-  },
-  {
     "id": "164",
     "name": "Hawk and Heron Clay Studio",
     "category": "Art & Creative",
-    "description": "Hawk and Heron Clay Studio is a local Art & Creative offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -5562,7 +5252,7 @@ export const activities: Activity[] = [
     "id": "165",
     "name": "BlackPineWorkshop",
     "category": "Music Lessons",
-    "description": "BlackPineWorkshop is a local Music Lessons offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -5594,44 +5284,10 @@ export const activities: Activity[] = [
     "badges": []
   },
   {
-    "id": "166",
-    "name": "Athens School of Music",
-    "category": "Music Lessons",
-    "description": "Athens School of Music is a local Music Lessons offering programs for kids.",
-    "ageRanges": [
-      "3-5",
-      "6-8",
-      "9-12"
-    ],
-    "personalityMatch": [
-      "creative",
-      "social",
-      "everything"
-    ],
-    "interestMatch": [
-      "creative-expression",
-      "individual"
-    ],
-    "scheduleOptions": [
-      "weekday-evening"
-    ],
-    "priceRange": "100-200",
-    "location": "anywhere",
-    "listingTier": "free",
-    "website": "http://www.athensschoolofmusic.com/",
-    "phone": "+1 706-543-5800",
-    "address": "1550 Lexington Rd suite c, Athens, GA 30605",
-    "imageUrl": "/images/placeholder.jpg",
-    "directoryUrl": "https://forsythkidsguide.com/listing/athens-school-of-music/",
-    "rating": 5,
-    "reviewCount": 13,
-    "badges": []
-  },
-  {
     "id": "167",
     "name": "Ceramics by Nature",
     "category": "Art & Creative",
-    "description": "Ceramics by Nature is a local Art & Creative offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -5665,7 +5321,7 @@ export const activities: Activity[] = [
     "id": "168",
     "name": "Brian Weinberg Music",
     "category": "Music Lessons",
-    "description": "Brian Weinberg Music is a local Music Lessons offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -5830,7 +5486,7 @@ export const activities: Activity[] = [
     "id": "173",
     "name": "Cumming City Center",
     "category": "Other",
-    "description": "Cumming City Center is a local Other offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -5861,7 +5517,7 @@ export const activities: Activity[] = [
     "id": "174",
     "name": "Events at West Maple",
     "category": "Other",
-    "description": "Events at West Maple is a local Other offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -5924,7 +5580,7 @@ export const activities: Activity[] = [
     "id": "176",
     "name": "Pilgrim Mill Park & Playground",
     "category": "Other",
-    "description": "Pilgrim Mill Park & Playground is a local Other offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -5955,7 +5611,7 @@ export const activities: Activity[] = [
     "id": "177",
     "name": "Kapow! Comics & Games",
     "category": "Other",
-    "description": "Kapow! Comics & Games is a local Other offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -5987,7 +5643,7 @@ export const activities: Activity[] = [
     "id": "178",
     "name": "Shiloh Gardens Special Events Venue",
     "category": "Other",
-    "description": "Shiloh Gardens Special Events Venue is a local Other offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -6019,7 +5675,7 @@ export const activities: Activity[] = [
     "id": "179",
     "name": "Cumming Fairgrounds",
     "category": "Other",
-    "description": "Cumming Fairgrounds is a local Other offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -6050,7 +5706,7 @@ export const activities: Activity[] = [
     "id": "180",
     "name": "Cumming City Park",
     "category": "Other",
-    "description": "Cumming City Park is a local Other offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -6359,7 +6015,7 @@ export const activities: Activity[] = [
     "id": "189",
     "name": "Montessori at Vickery",
     "category": "Preschool Enrichment",
-    "description": "Montessori at Vickery is a local Preschool Enrichment offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "under-3",
       "3-5"
@@ -6603,7 +6259,7 @@ export const activities: Activity[] = [
     "id": "196",
     "name": "Ivy League Academy at Peachtree Parkway",
     "category": "Preschool Enrichment",
-    "description": "Ivy League Academy at Peachtree Parkway is a local Preschool Enrichment offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "under-3",
       "3-5"
@@ -6853,7 +6509,7 @@ export const activities: Activity[] = [
     "id": "203",
     "name": "Grace Academy Preschool",
     "category": "Preschool Enrichment",
-    "description": "Grace Academy Preschool is a local Preschool Enrichment offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "under-3",
       "3-5"
@@ -6889,7 +6545,7 @@ export const activities: Activity[] = [
     "id": "204",
     "name": "Good Shepherd Preschool",
     "category": "Preschool Enrichment",
-    "description": "Good Shepherd Preschool is a local Preschool Enrichment offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "under-3",
       "3-5"
@@ -6958,7 +6614,7 @@ export const activities: Activity[] = [
     "id": "206",
     "name": "North Georgia Homeschool Enrichment",
     "category": "Other",
-    "description": "North Georgia Homeschool Enrichment is a local Other offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -7165,76 +6821,6 @@ export const activities: Activity[] = [
     "badges": []
   },
   {
-    "id": "212",
-    "name": "Active Climbing - Indoor Rock Climbing",
-    "category": "Outdoor & Adventure",
-    "description": "Indoor Rock Climbing Bouldering Birthday Parties Family fun and Ninja \r\nCenter",
-    "ageRanges": [
-      "3-5",
-      "6-8",
-      "9-12",
-      "13+"
-    ],
-    "personalityMatch": [
-      "athletic",
-      "everything"
-    ],
-    "interestMatch": [
-      "outdoor",
-      "individual"
-    ],
-    "scheduleOptions": [
-      "weekends",
-      "weekday-evening"
-    ],
-    "priceRange": "under-50",
-    "location": "anywhere",
-    "listingTier": "free",
-    "website": "http://www.activeclimbingaugusta.com/",
-    "phone": "+1 706-922-1054",
-    "address": "643 S Old Belair Rd, Grovetown, GA 30813",
-    "imageUrl": "/images/placeholder.jpg",
-    "directoryUrl": "https://forsythkidsguide.com/listing/active-climbing---indoor-rock-climbing/",
-    "rating": 4.7,
-    "reviewCount": 125,
-    "badges": []
-  },
-  {
-    "id": "213",
-    "name": "Escalade Rock Climbing PTC",
-    "category": "Outdoor & Adventure",
-    "description": "Escalade Rock Climbing PTC is a local Outdoor & Adventure offering programs for kids.",
-    "ageRanges": [
-      "3-5",
-      "6-8",
-      "9-12",
-      "13+"
-    ],
-    "personalityMatch": [
-      "athletic",
-      "everything"
-    ],
-    "interestMatch": [
-      "outdoor",
-      "individual"
-    ],
-    "scheduleOptions": [
-      "weekends",
-      "weekday-evening"
-    ],
-    "priceRange": "under-50",
-    "location": "anywhere",
-    "listingTier": "free",
-    "website": "http://www.escaladegym.com/",
-    "phone": "+1 678-870-1400",
-    "address": "125 Depot Ct, Peachtree City, GA 30269",
-    "imageUrl": "/images/placeholder.jpg",
-    "directoryUrl": "https://forsythkidsguide.com/listing/escalade-rock-climbing-ptc/",
-    "rating": 4.5,
-    "reviewCount": 99,
-    "badges": []
-  },
-  {
     "id": "214",
     "name": "The Complex Sports and Entertainment",
     "category": "Other",
@@ -7270,7 +6856,7 @@ export const activities: Activity[] = [
     "id": "215",
     "name": "Cumming Aquatic Center",
     "category": "Swim Lessons",
-    "description": "Cumming Aquatic Center is a local Swim Lessons offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -7433,7 +7019,7 @@ export const activities: Activity[] = [
     "id": "220",
     "name": "Lanier Strength & Conditioning (CrossFit Lanier)",
     "category": "Outdoor & Adventure",
-    "description": "Lanier Strength & Conditioning (CrossFit Lanier) is a local Outdoor & Adventure offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -7468,7 +7054,7 @@ export const activities: Activity[] = [
     "id": "221",
     "name": "Prime Combat Sports",
     "category": "Martial Arts & Self-Defense",
-    "description": "Prime Combat Sports is a local Martial Arts & Self-Defense offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -7601,7 +7187,7 @@ export const activities: Activity[] = [
     "id": "225",
     "name": "Young Chefs Academy - Cumming, GA",
     "category": "Other",
-    "description": "Young Chefs Academy - Cumming, GA is a local Other offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -7834,7 +7420,7 @@ export const activities: Activity[] = [
     "id": "232",
     "name": "Sharkey's Cuts For Kids - Cumming, GA",
     "category": "Other",
-    "description": "Sharkey's Cuts For Kids - Cumming, GA is a local Other offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -7934,7 +7520,7 @@ export const activities: Activity[] = [
     "id": "235",
     "name": "Just For Kids Gymnastic & Dnc",
     "category": "Gymnastics & Cheer",
-    "description": "Just For Kids Gymnastic & Dnc is a local Gymnastics & Cheer offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "under-3",
       "3-5",
@@ -7970,7 +7556,7 @@ export const activities: Activity[] = [
     "id": "236",
     "name": "Rupa Arts Academy",
     "category": "Art & Creative",
-    "description": "Rupa Arts Academy is a local Art & Creative offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -8005,7 +7591,7 @@ export const activities: Activity[] = [
     "id": "237",
     "name": "Vaishnavi Studio",
     "category": "Art & Creative",
-    "description": "Vaishnavi Studio is a local Art & Creative offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -8071,7 +7657,7 @@ export const activities: Activity[] = [
     "id": "239",
     "name": "Stingray Forsyth",
     "category": "Other",
-    "description": "Stingray Forsyth is a local Other offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -8103,7 +7689,7 @@ export const activities: Activity[] = [
     "id": "240",
     "name": "Lanier Lions Football and Cheer Association",
     "category": "Other",
-    "description": "Lanier Lions Football and Cheer Association is a local Other offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -8135,7 +7721,7 @@ export const activities: Activity[] = [
     "id": "241",
     "name": "Wren cheer",
     "category": "Other",
-    "description": "Wren cheer is a local Other offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -8201,7 +7787,7 @@ export const activities: Activity[] = [
     "id": "243",
     "name": "Youth Technology Learning Center",
     "category": "Tutoring & Academic",
-    "description": "Youth Technology Learning Center is a local Tutoring & Academic offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -8234,7 +7820,7 @@ export const activities: Activity[] = [
     "id": "244",
     "name": "Spark STEM Academy",
     "category": "Tutoring & Academic",
-    "description": "Spark STEM Academy is a local Tutoring & Academic offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -8333,7 +7919,7 @@ export const activities: Activity[] = [
     "id": "247",
     "name": "Genius Hangout",
     "category": "Tutoring & Academic",
-    "description": "Genius Hangout is a local Tutoring & Academic offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -8433,7 +8019,7 @@ export const activities: Activity[] = [
     "id": "250",
     "name": "CodeCubbies - Coding Classes for Kids",
     "category": "Other",
-    "description": "CodeCubbies - Coding Classes for Kids is a local Other offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -8605,7 +8191,7 @@ export const activities: Activity[] = [
     "id": "255",
     "name": "Camp All-American",
     "category": "Summer Camps",
-    "description": "Camp All-American is a local Summer Camps offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -8676,48 +8262,10 @@ export const activities: Activity[] = [
     "badges": []
   },
   {
-    "id": "257",
-    "name": "Camp Hope",
-    "category": "Summer Camps",
-    "description": "Camp Hope is a local Summer Camps offering programs for kids.",
-    "ageRanges": [
-      "3-5",
-      "6-8",
-      "9-12",
-      "13+"
-    ],
-    "personalityMatch": [
-      "athletic",
-      "creative",
-      "social",
-      "everything"
-    ],
-    "interestMatch": [
-      "outdoor",
-      "team-sports",
-      "creative-expression"
-    ],
-    "scheduleOptions": [
-      "weekends",
-      "weekday-afternoon"
-    ],
-    "priceRange": "100-200",
-    "location": "anywhere",
-    "listingTier": "free",
-    "website": "http://www.camphopega.org/",
-    "phone": "+1 770-536-4787",
-    "address": "7011 Pony Lake Rd, Dahlonega, GA 30533",
-    "imageUrl": "/images/placeholder.jpg",
-    "directoryUrl": "https://forsythkidsguide.com/listing/camp-hope/",
-    "rating": 4.9,
-    "reviewCount": 87,
-    "badges": []
-  },
-  {
     "id": "258",
     "name": "Camp KidJam",
     "category": "Summer Camps",
-    "description": "Camp KidJam is a local Summer Camps offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -8789,7 +8337,7 @@ export const activities: Activity[] = [
     "id": "260",
     "name": "Swim Warriors Incorporated",
     "category": "Swim Lessons",
-    "description": "Swim Warriors Incorporated is a local Swim Lessons offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -8823,7 +8371,7 @@ export const activities: Activity[] = [
     "id": "261",
     "name": "Windermere Pool",
     "category": "Swim Lessons",
-    "description": "Windermere Pool is a local Swim Lessons offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -8858,7 +8406,7 @@ export const activities: Activity[] = [
     "id": "262",
     "name": "Swim Atlanta Ltd",
     "category": "Swim Lessons",
-    "description": "Swim Atlanta Ltd is a local Swim Lessons offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -9501,7 +9049,7 @@ export const activities: Activity[] = [
     "id": "281",
     "name": "Bharathi Prime Tutoring",
     "category": "Tutoring & Academic",
-    "description": "Bharathi Prime Tutoring is a local Tutoring & Academic offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -9667,7 +9215,7 @@ export const activities: Activity[] = [
     "id": "286",
     "name": "iLearn Academy",
     "category": "Tutoring & Academic",
-    "description": "iLearn Academy is a local Tutoring & Academic offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -9736,7 +9284,7 @@ export const activities: Activity[] = [
     "id": "288",
     "name": "Tutoring Teacher",
     "category": "Tutoring & Academic",
-    "description": "Tutoring Teacher is a local Tutoring & Academic offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -9770,7 +9318,7 @@ export const activities: Activity[] = [
     "id": "289",
     "name": "Ramana SAT Prep",
     "category": "Tutoring & Academic",
-    "description": "Ramana SAT Prep is a local Tutoring & Academic offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -9870,7 +9418,7 @@ export const activities: Activity[] = [
     "id": "292",
     "name": "Eye Level Learning Center",
     "category": "Tutoring & Academic",
-    "description": "Eye Level Learning Center is a local Tutoring & Academic offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -9904,7 +9452,7 @@ export const activities: Activity[] = [
     "id": "293",
     "name": "Eye Level - Cumming East",
     "category": "Tutoring & Academic",
-    "description": "Eye Level - Cumming East is a local Tutoring & Academic offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -9937,7 +9485,7 @@ export const activities: Activity[] = [
     "id": "294",
     "name": "Kid Central Child Care Inc",
     "category": "Preschool Enrichment",
-    "description": "Kid Central Child Care Inc is a local Preschool Enrichment offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "under-3",
       "3-5"
@@ -10037,7 +9585,7 @@ export const activities: Activity[] = [
     "id": "297",
     "name": "Nikaan Tutoring LLC",
     "category": "Tutoring & Academic",
-    "description": "Nikaan Tutoring LLC is a local Tutoring & Academic offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -10071,7 +9619,7 @@ export const activities: Activity[] = [
     "id": "298",
     "name": "Junior Achievement Discovery Center, North Georgia",
     "category": "Other",
-    "description": "Junior Achievement Discovery Center, North Georgia is a local Other offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -10137,7 +9685,7 @@ export const activities: Activity[] = [
     "id": "300",
     "name": "Akers Academy",
     "category": "Preschool Enrichment",
-    "description": "Akers Academy is a local Preschool Enrichment offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "under-3",
       "3-5"
@@ -10173,7 +9721,7 @@ export const activities: Activity[] = [
     "id": "301",
     "name": "Windward Baseball Academy",
     "category": "Sports Training & Leagues",
-    "description": "Windward Baseball Academy is a local Sports Training & Leagues offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -10311,7 +9859,7 @@ export const activities: Activity[] = [
     "id": "305",
     "name": "SmarTense Training & SmarTense Baseball",
     "category": "Sports Training & Leagues",
-    "description": "SmarTense Training & SmarTense Baseball is a local Sports Training & Leagues offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -10347,7 +9895,7 @@ export const activities: Activity[] = [
     "id": "306",
     "name": "Armory Baseball & Softball",
     "category": "Sports Training & Leagues",
-    "description": "Armory Baseball & Softball is a local Sports Training & Leagues offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -10380,46 +9928,10 @@ export const activities: Activity[] = [
     "badges": []
   },
   {
-    "id": "307",
-    "name": "Georgia Stars Baseball Academy",
-    "category": "Sports Training & Leagues",
-    "description": "Georgia Stars Baseball Academy, a non-profit 501(c)3 organization located in Norcross, GA, is an organization dedicated to the development of young men through the sport of baseball. The mission of our organization is for our players to attain an athletic or academic scholarship to play baseball in college.",
-    "ageRanges": [
-      "3-5",
-      "6-8",
-      "9-12",
-      "13+"
-    ],
-    "personalityMatch": [
-      "athletic",
-      "social",
-      "everything"
-    ],
-    "interestMatch": [
-      "team-sports",
-      "outdoor"
-    ],
-    "scheduleOptions": [
-      "weekends",
-      "weekday-evening"
-    ],
-    "priceRange": "100-200",
-    "location": "anywhere",
-    "listingTier": "free",
-    "website": "http://www.georgiastars.com/",
-    "phone": "+1 404-396-8532",
-    "address": "4525 S Berkeley Lake Rd NW, Norcross, GA 30071",
-    "imageUrl": "/images/placeholder.jpg",
-    "directoryUrl": "https://forsythkidsguide.com/listing/georgia-stars-baseball-academy/",
-    "rating": 4.4,
-    "reviewCount": 106,
-    "badges": []
-  },
-  {
     "id": "308",
     "name": "Hitters Park",
     "category": "Other",
-    "description": "Hitters Park is a local Other offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -10450,7 +9962,7 @@ export const activities: Activity[] = [
     "id": "309",
     "name": "Roadrunner Baseball Academy",
     "category": "Sports Training & Leagues",
-    "description": "Roadrunner Baseball Academy is a local Sports Training & Leagues offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -10483,46 +9995,10 @@ export const activities: Activity[] = [
     "badges": []
   },
   {
-    "id": "310",
-    "name": "Relentless Sports Academy",
-    "category": "Sports Training & Leagues",
-    "description": "Relentless Sports Academy is a local Sports Training & Leagues offering programs for kids.",
-    "ageRanges": [
-      "3-5",
-      "6-8",
-      "9-12",
-      "13+"
-    ],
-    "personalityMatch": [
-      "athletic",
-      "social",
-      "everything"
-    ],
-    "interestMatch": [
-      "team-sports",
-      "outdoor"
-    ],
-    "scheduleOptions": [
-      "weekday-afternoon",
-      "weekends"
-    ],
-    "priceRange": "100-200",
-    "location": "anywhere",
-    "listingTier": "free",
-    "website": "http://www.relentlessga.com/",
-    "phone": "+1 470-863-5682",
-    "address": "320 Adams Jenkins Memorial Dr, Canton, GA 30115",
-    "imageUrl": "/images/placeholder.jpg",
-    "directoryUrl": "https://forsythkidsguide.com/listing/relentless-sports-academy/",
-    "rating": 4.9,
-    "reviewCount": 78,
-    "badges": []
-  },
-  {
     "id": "311",
     "name": "Forsyth Central High School Baseball",
     "category": "Tutoring & Academic",
-    "description": "Forsyth Central High School Baseball is a local Tutoring & Academic offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -10556,7 +10032,7 @@ export const activities: Activity[] = [
     "id": "312",
     "name": "RBI Tournaments",
     "category": "Sports Training & Leagues",
-    "description": "RBI Tournaments is a local Sports Training & Leagues offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -10592,7 +10068,7 @@ export const activities: Activity[] = [
     "id": "313",
     "name": "V36 Elite Sports Academy",
     "category": "Sports Training & Leagues",
-    "description": "V36 Elite Sports Academy is a local Sports Training & Leagues offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -10627,7 +10103,7 @@ export const activities: Activity[] = [
     "id": "314",
     "name": "Auterson Baseball Training",
     "category": "Sports Training & Leagues",
-    "description": "Auterson Baseball Training is a local Sports Training & Leagues offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -10663,7 +10139,7 @@ export const activities: Activity[] = [
     "id": "315",
     "name": "Renz Baseball Academy",
     "category": "Other",
-    "description": "Renz Baseball Academy is a local Other offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -10759,7 +10235,7 @@ export const activities: Activity[] = [
     "id": "318",
     "name": "Camden Academy",
     "category": "Preschool Enrichment",
-    "description": "Camden Academy is a local Preschool Enrichment offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "under-3",
       "3-5"
@@ -10827,7 +10303,7 @@ export const activities: Activity[] = [
     "id": "320",
     "name": "Legacy Academy Cumming",
     "category": "Preschool Enrichment",
-    "description": "Legacy Academy Cumming is a local Preschool Enrichment offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "under-3",
       "3-5"
@@ -10962,37 +10438,6 @@ export const activities: Activity[] = [
     "badges": []
   },
   {
-    "id": "324",
-    "name": "New York City Administration for Children's Services",
-    "category": "Other",
-    "description": "Learn how to contact NYC government for emergency services (911) or non-emergency services (311). You can also get contact information for city agencies, sign up for newsletters, or give website feedback.",
-    "ageRanges": [
-      "6-8",
-      "9-12",
-      "13+"
-    ],
-    "personalityMatch": [
-      "everything"
-    ],
-    "interestMatch": [
-      "individual"
-    ],
-    "scheduleOptions": [
-      "weekday-evening"
-    ],
-    "priceRange": "100-200",
-    "location": "anywhere",
-    "listingTier": "free",
-    "website": "http://www.nyc.gov/html/acs/html/about/about.shtml",
-    "phone": "+1 212-639-9675",
-    "address": "66 John St #400, New York, NY 10038",
-    "imageUrl": "/images/placeholder.jpg",
-    "directoryUrl": "https://forsythkidsguide.com/listing/new-york-city-administration-for-childrens-services/",
-    "rating": 3.4,
-    "reviewCount": 87,
-    "badges": []
-  },
-  {
     "id": "325",
     "name": "White Oak Learning Academy #1",
     "category": "Preschool Enrichment",
@@ -11098,7 +10543,7 @@ export const activities: Activity[] = [
     "id": "328",
     "name": "Kiddos Dream Day Care",
     "category": "Preschool Enrichment",
-    "description": "Kiddos Dream Day Care is a local Preschool Enrichment offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "under-3",
       "3-5"
@@ -11134,7 +10579,7 @@ export const activities: Activity[] = [
     "id": "329",
     "name": "GF Pro Kids",
     "category": "Other",
-    "description": "GF Pro Kids is a local Other offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -11166,7 +10611,7 @@ export const activities: Activity[] = [
     "id": "330",
     "name": "Ivy League Academy at Bethelview",
     "category": "Preschool Enrichment",
-    "description": "Ivy League Academy at Bethelview is a local Preschool Enrichment offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "under-3",
       "3-5"
@@ -11237,7 +10682,7 @@ export const activities: Activity[] = [
     "id": "332",
     "name": "The Lanier Learning Play House",
     "category": "Preschool Enrichment",
-    "description": "The Lanier Learning Play House is a local Preschool Enrichment offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "under-3",
       "3-5"
@@ -11273,7 +10718,7 @@ export const activities: Activity[] = [
     "id": "333",
     "name": "SUPER STARS CHILD RESEARCH AND DEVELOPMENT CENTER",
     "category": "Other",
-    "description": "SUPER STARS CHILD RESEARCH AND DEVELOPMENT CENTER is a local Other offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -11304,7 +10749,7 @@ export const activities: Activity[] = [
     "id": "334",
     "name": "Cumming Elementary School",
     "category": "Other",
-    "description": "Cumming Elementary School is a local Other offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -11403,7 +10848,7 @@ export const activities: Activity[] = [
     "id": "337",
     "name": "George W. Whitlow Elementary School",
     "category": "Other",
-    "description": "George W. Whitlow Elementary School is a local Other offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -11465,7 +10910,7 @@ export const activities: Activity[] = [
     "id": "339",
     "name": "Midway Park",
     "category": "Other",
-    "description": "Midway Park is a local Other offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -11496,7 +10941,7 @@ export const activities: Activity[] = [
     "id": "340",
     "name": "Buford Youth Sports Complex",
     "category": "Sports Training & Leagues",
-    "description": "Buford Youth Sports Complex is a local Sports Training & Leagues offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -11568,7 +11013,7 @@ export const activities: Activity[] = [
     "id": "342",
     "name": "West Forsyth Youth Lacrosse",
     "category": "Other",
-    "description": "West Forsyth Youth Lacrosse is a local Other offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -11600,7 +11045,7 @@ export const activities: Activity[] = [
     "id": "343",
     "name": "NorthEast Forsyth Youth Lacrosse",
     "category": "Sports Training & Leagues",
-    "description": "NorthEast Forsyth Youth Lacrosse is a local Sports Training & Leagues offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -11636,7 +11081,7 @@ export const activities: Activity[] = [
     "id": "344",
     "name": "EE Robinson Football Complex",
     "category": "Sports Training & Leagues",
-    "description": "EE Robinson Football Complex is a local Sports Training & Leagues offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -11672,7 +11117,7 @@ export const activities: Activity[] = [
     "id": "345",
     "name": "Central Park Softball Fields",
     "category": "Other",
-    "description": "Central Park Softball Fields is a local Other offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -11908,43 +11353,10 @@ export const activities: Activity[] = [
     "badges": []
   },
   {
-    "id": "352",
-    "name": "Code Wiz - Lawrenceville, GA",
-    "category": "Tutoring & Academic",
-    "description": "Code Wiz is a top rated coding and robotics school for kids ages 7 - 17. Center based and online coding for kids courses are available to help your child unlock their inner genius and give them a headstart! Sign up for a free class today!",
-    "ageRanges": [
-      "6-8",
-      "9-12",
-      "13+"
-    ],
-    "personalityMatch": [
-      "academic",
-      "everything"
-    ],
-    "interestMatch": [
-      "academic-enrichment",
-      "individual"
-    ],
-    "scheduleOptions": [
-      "weekends"
-    ],
-    "priceRange": "200-plus",
-    "location": "anywhere",
-    "listingTier": "free",
-    "website": "https://thecodewiz.com/lawrenceville-ga",
-    "phone": "+1 470-260-1358",
-    "address": "3370 Sugarloaf Pkwy Ste G2, Lawrenceville, GA 30044",
-    "imageUrl": "/images/placeholder.jpg",
-    "directoryUrl": "https://forsythkidsguide.com/listing/code-wiz---lawrenceville-ga/",
-    "rating": 4.7,
-    "reviewCount": 12,
-    "badges": []
-  },
-  {
     "id": "353",
     "name": "Kamalam School Of Dance",
     "category": "Dance & Ballet",
-    "description": "Kamalam School Of Dance is a local Dance & Ballet offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -12012,7 +11424,7 @@ export const activities: Activity[] = [
     "id": "355",
     "name": "Prem Dance Studio",
     "category": "Dance & Ballet",
-    "description": "Prem Dance Studio is a local Dance & Ballet offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -12047,7 +11459,7 @@ export const activities: Activity[] = [
     "id": "356",
     "name": "Geet-Rung Academy of Kathak",
     "category": "Dance & Ballet",
-    "description": "Geet-Rung Academy of Kathak is a local Dance & Ballet offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -12181,7 +11593,7 @@ export const activities: Activity[] = [
     "id": "360",
     "name": "Neev Educations",
     "category": "Tutoring & Academic",
-    "description": "Neev Educations is a local Tutoring & Academic offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -12346,7 +11758,7 @@ export const activities: Activity[] = [
     "id": "365",
     "name": "Forsyth County Public Library - Cumming Library",
     "category": "Other",
-    "description": "Forsyth County Public Library - Cumming Library is a local Other offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -12377,7 +11789,7 @@ export const activities: Activity[] = [
     "id": "366",
     "name": "Almon C. Hill Educational Center",
     "category": "Tutoring & Academic",
-    "description": "Almon C. Hill Educational Center is a local Tutoring & Academic offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -12411,7 +11823,7 @@ export const activities: Activity[] = [
     "id": "367",
     "name": "Piedmont Learning Center",
     "category": "Tutoring & Academic",
-    "description": "Piedmont Learning Center is a local Tutoring & Academic offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "6-8",
       "9-12",
@@ -12479,7 +11891,7 @@ export const activities: Activity[] = [
     "id": "369",
     "name": "CMAC Judo",
     "category": "Martial Arts & Self-Defense",
-    "description": "CMAC Judo is a local Martial Arts & Self-Defense offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -12617,7 +12029,7 @@ export const activities: Activity[] = [
     "id": "373",
     "name": "Champion Taekwondo Martial Arts",
     "category": "Martial Arts & Self-Defense",
-    "description": "Champion Taekwondo Martial Arts is a local Martial Arts & Self-Defense offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -12760,7 +12172,7 @@ export const activities: Activity[] = [
     "id": "377",
     "name": "King Tiger Taekwondo",
     "category": "Martial Arts & Self-Defense",
-    "description": "King Tiger Taekwondo is a local Martial Arts & Self-Defense offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -12795,7 +12207,7 @@ export const activities: Activity[] = [
     "id": "378",
     "name": "Team CMAC",
     "category": "Martial Arts & Self-Defense",
-    "description": "Team CMAC is a local Martial Arts & Self-Defense offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -12828,45 +12240,10 @@ export const activities: Activity[] = [
     "badges": []
   },
   {
-    "id": "379",
-    "name": "Canton Brazilian Jiu Jitsu",
-    "category": "Martial Arts & Self-Defense",
-    "description": "Here at Canton Brazilian Jiu Jitsu, we pride ourselves on providing the most energetic and welcoming spot for Jiu Jitsu and martial arts as possible.",
-    "ageRanges": [
-      "3-5",
-      "6-8",
-      "9-12",
-      "13+"
-    ],
-    "personalityMatch": [
-      "athletic",
-      "social",
-      "everything"
-    ],
-    "interestMatch": [
-      "individual",
-      "team-sports"
-    ],
-    "scheduleOptions": [
-      "weekends"
-    ],
-    "priceRange": "100-200",
-    "location": "anywhere",
-    "listingTier": "free",
-    "website": "http://www.cantonbjj.com/",
-    "phone": "+1 678-880-2594",
-    "address": "480 Old Canton Rd, Ball Ground, GA 30107",
-    "imageUrl": "/images/placeholder.jpg",
-    "directoryUrl": "https://forsythkidsguide.com/listing/canton-brazilian-jiu-jitsu/",
-    "rating": 4.9,
-    "reviewCount": 77,
-    "badges": []
-  },
-  {
     "id": "380",
     "name": "YK Taekwondo_Macedonia",
     "category": "Martial Arts & Self-Defense",
-    "description": "YK Taekwondo_Macedonia is a local Martial Arts & Self-Defense offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -12901,7 +12278,7 @@ export const activities: Activity[] = [
     "id": "381",
     "name": "White Tiger Yongin Martial Arts",
     "category": "Martial Arts & Self-Defense",
-    "description": "White Tiger Yongin Martial Arts is a local Martial Arts & Self-Defense offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -12933,45 +12310,10 @@ export const activities: Activity[] = [
     "badges": []
   },
   {
-    "id": "382",
-    "name": "Choe's Hapkido of Dahlonega",
-    "category": "Martial Arts & Self-Defense",
-    "description": "Join Choe’s HapKiDo for expert martial arts and karate classes. Start your free trial today and empower your child with discipline and focus!",
-    "ageRanges": [
-      "3-5",
-      "6-8",
-      "9-12",
-      "13+"
-    ],
-    "personalityMatch": [
-      "athletic",
-      "social",
-      "everything"
-    ],
-    "interestMatch": [
-      "individual",
-      "team-sports"
-    ],
-    "scheduleOptions": [
-      "weekends"
-    ],
-    "priceRange": "100-200",
-    "location": "anywhere",
-    "listingTier": "free",
-    "website": "https://trykarateclasses.com/dahlonega/",
-    "phone": "+1 470-376-2500",
-    "address": "101 Ethan Allen Dr Unit B, Dahlonega, GA 30533",
-    "imageUrl": "/images/placeholder.jpg",
-    "directoryUrl": "https://forsythkidsguide.com/listing/choes-hapkido-of-dahlonega/",
-    "rating": 5,
-    "reviewCount": 24,
-    "badges": []
-  },
-  {
     "id": "383",
     "name": "K-TOP WORLD TAEKWONDO",
     "category": "Martial Arts & Self-Defense",
-    "description": "K-TOP WORLD TAEKWONDO is a local Martial Arts & Self-Defense offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -13006,7 +12348,7 @@ export const activities: Activity[] = [
     "id": "384",
     "name": "Gracie Jiu Jitsu - J3 Academy",
     "category": "Martial Arts & Self-Defense",
-    "description": "Gracie Jiu Jitsu - J3 Academy is a local Martial Arts & Self-Defense offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -13072,7 +12414,7 @@ export const activities: Activity[] = [
     "id": "386",
     "name": "The Dojo - Milton",
     "category": "Martial Arts & Self-Defense",
-    "description": "The Dojo - Milton is a local Martial Arts & Self-Defense offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",
@@ -13104,113 +12446,10 @@ export const activities: Activity[] = [
     "badges": []
   },
   {
-    "id": "387",
-    "name": "Omni Fight Club Roswell",
-    "category": "Other",
-    "description": "Struggling to shed extra pounds? Our high-intensity, full-body workouts are designed to maximize fat burn, boost metabolism, and help you build lean muscle.",
-    "ageRanges": [
-      "6-8",
-      "9-12",
-      "13+"
-    ],
-    "personalityMatch": [
-      "everything"
-    ],
-    "interestMatch": [
-      "individual"
-    ],
-    "scheduleOptions": [
-      "weekends",
-      "weekday-evening"
-    ],
-    "priceRange": "100-200",
-    "location": "anywhere",
-    "listingTier": "free",
-    "website": "https://www.omnifightclubroswell.com/",
-    "phone": "+1 770-802-4224",
-    "address": "1575 Old Alabama Rd Ste 212, Roswell, GA 30076",
-    "imageUrl": "/images/placeholder.jpg",
-    "directoryUrl": "https://forsythkidsguide.com/listing/omni-fight-club-roswell/",
-    "rating": 5,
-    "reviewCount": 216,
-    "badges": []
-  },
-  {
-    "id": "388",
-    "name": "Blairsville Martial Arts Academy",
-    "category": "Martial Arts & Self-Defense",
-    "description": "Blairsville Martial Arts Academy is a local Martial Arts & Self-Defense offering programs for kids.",
-    "ageRanges": [
-      "3-5",
-      "6-8",
-      "9-12",
-      "13+"
-    ],
-    "personalityMatch": [
-      "athletic",
-      "social",
-      "everything"
-    ],
-    "interestMatch": [
-      "individual",
-      "team-sports"
-    ],
-    "scheduleOptions": [
-      "weekends",
-      "weekday-evening"
-    ],
-    "priceRange": "100-200",
-    "location": "anywhere",
-    "listingTier": "free",
-    "website": "http://www.blairsvillemartialartsacademy.com/",
-    "phone": "+1 828-361-6148",
-    "address": "1741B Blue Ridge Hwy, Blairsville, GA 30512",
-    "imageUrl": "/images/placeholder.jpg",
-    "directoryUrl": "https://forsythkidsguide.com/listing/blairsville-martial-arts-academy/",
-    "rating": 5,
-    "reviewCount": 12,
-    "badges": []
-  },
-  {
-    "id": "389",
-    "name": "Full Throttle Fitness",
-    "category": "Martial Arts & Self-Defense",
-    "description": "Premier Mixed Martial Arts, Kickboxing, Real Karate and Jiu Jitsu | Gainesville, Ga | Atlanta, Ga",
-    "ageRanges": [
-      "3-5",
-      "6-8",
-      "9-12",
-      "13+"
-    ],
-    "personalityMatch": [
-      "athletic",
-      "social",
-      "everything"
-    ],
-    "interestMatch": [
-      "individual",
-      "team-sports"
-    ],
-    "scheduleOptions": [
-      "weekends"
-    ],
-    "priceRange": "100-200",
-    "location": "anywhere",
-    "listingTier": "free",
-    "website": "https://fullthrottlemma.com/",
-    "phone": "+1 678-896-7846",
-    "address": "843 Main St SW, Gainesville, GA 30501",
-    "imageUrl": "/images/placeholder.jpg",
-    "directoryUrl": "https://forsythkidsguide.com/listing/full-throttle-fitness/",
-    "rating": 4.7,
-    "reviewCount": 42,
-    "badges": []
-  },
-  {
     "id": "390",
     "name": "Tae Kwon Do",
     "category": "Martial Arts & Self-Defense",
-    "description": "Tae Kwon Do is a local Martial Arts & Self-Defense offering programs for kids.",
+    "description": "",
     "ageRanges": [
       "3-5",
       "6-8",

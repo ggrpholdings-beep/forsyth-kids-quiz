@@ -3,15 +3,45 @@ interface ProgressBarProps {
   total: number;
 }
 
+const ENCOURAGEMENT: Record<number, string> = {
+  1: "Great start! 94% of parents who complete this find their perfect activity",
+  2: "You're doing great — these details help us find the best match",
+  3: "Halfway there! Your personalized results are taking shape",
+  4: "Almost done — just 2 more questions",
+  5: "One more! We're finalizing your top picks",
+  6: "Last question — your results are almost ready!",
+};
+
 export default function ProgressBar({ current, total }: ProgressBarProps) {
-  const percentage = (current / total) * 100;
+  const percentage = Math.round((current / total) * 100);
+  const message = ENCOURAGEMENT[current];
 
   return (
-    <div className="h-1 bg-gray-200 w-full sticky top-0 z-10">
-      <div
-        className="h-full bg-gradient-to-r from-[#002147] to-[#9DC183] rounded-r-sm transition-all duration-400 ease-out"
-        style={{ width: `${percentage}%` }}
-      />
+    <div className="w-full">
+      {/* Row: "Question X of Y" ←→ "XX% complete" */}
+      <div className="flex justify-between items-baseline mb-2">
+        <span className="text-sm font-semibold text-[#37474F]">
+          Question {current} of {total}
+        </span>
+        <span className="text-sm font-medium text-[#37474F]">
+          {percentage}% complete
+        </span>
+      </div>
+
+      {/* Track + fill */}
+      <div className="h-2 w-full rounded-full bg-[#E8F0E0]">
+        <div
+          className="h-full rounded-full bg-[#002147] transition-all duration-500 ease-out"
+          style={{ width: `${percentage}%` }}
+        />
+      </div>
+
+      {/* Encouragement text */}
+      {message && (
+        <p className="mt-2 text-xs font-medium text-[#9DC183] text-center">
+          {message}
+        </p>
+      )}
     </div>
   );
 }

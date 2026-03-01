@@ -99,7 +99,6 @@ export default function QuizPage() {
   if (showEmailGate) {
     return (
       <main className="min-h-screen bg-[#FAFBF9]">
-        <ProgressBar current={quizQuestions.length} total={quizQuestions.length} />
         <div className="pt-4 px-6 max-w-xl mx-auto">
           <button
             onClick={goBack}
@@ -107,6 +106,9 @@ export default function QuizPage() {
           >
             ← Back
           </button>
+        </div>
+        <div className="px-6 pt-4 pb-2 max-w-xl mx-auto">
+          <ProgressBar current={quizQuestions.length} total={quizQuestions.length} />
         </div>
         <EmailGate
           onSubmit={(email, firstName) => navigateToResults(email, firstName)}
@@ -127,18 +129,17 @@ export default function QuizPage() {
 
   return (
     <main className="min-h-screen bg-[#FAFBF9] flex flex-col">
-      <ProgressBar current={currentQ + 1} total={quizQuestions.length} />
-
-      <div className="flex justify-between items-center px-6 pt-4 pb-2 max-w-xl mx-auto w-full">
+      <div className="flex items-center px-6 pt-4 pb-2 max-w-xl mx-auto w-full">
         <button
           onClick={goBack}
           className="text-[#7B8A92] text-sm hover:text-[#37474F] transition-colors"
         >
           ← {currentQ > 0 ? "Back" : "Home"}
         </button>
-        <span className="text-sm text-[#7B8A92] font-medium">
-          {currentQ + 1} of {quizQuestions.length}
-        </span>
+      </div>
+
+      <div className="px-6 pb-4 max-w-xl mx-auto w-full">
+        <ProgressBar current={currentQ + 1} total={quizQuestions.length} />
       </div>
 
       <div

@@ -4,3 +4,6 @@ node_modules/
 .env.local
 *.tsbuildinfo
 next-env.d.ts
+
+# Outscraper export (large spreadsheet)
+Outscraper-20260227140044s66.xlsx

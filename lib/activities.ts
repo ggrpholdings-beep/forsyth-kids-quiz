@@ -4592,41 +4592,6 @@ export const activities: Activity[] = [
     "badges": []
   },
   {
-    "id": "142",
-    "name": "Monroe County Fine Arts Center",
-    "category": "Art & Creative",
-    "description": "",
-    "ageRanges": [
-      "6-8",
-      "9-12",
-      "13+"
-    ],
-    "personalityMatch": [
-      "creative",
-      "academic",
-      "everything"
-    ],
-    "interestMatch": [
-      "creative-expression",
-      "individual"
-    ],
-    "scheduleOptions": [
-      "weekday-afternoon",
-      "weekends"
-    ],
-    "priceRange": "50-100",
-    "location": "anywhere",
-    "listingTier": "free",
-    "website": "https://www.monroe.k12.ga.us/page/monroe-county-fine-arts-center",
-    "phone": "+1 478-994-2031",
-    "address": "27 Brooklyn Ave, Forsyth, GA 31029",
-    "imageUrl": "/images/placeholder.jpg",
-    "directoryUrl": "https://forsythkidsguide.com/listing/monroe-county-fine-arts-center/",
-    "rating": 5,
-    "reviewCount": 12,
-    "badges": []
-  },
-  {
     "id": "143",
     "name": "New School of Music Gwinnett/Buford",
     "category": "Music Lessons",
